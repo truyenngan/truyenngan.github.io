@@ -5,7 +5,7 @@ title: Làm thế nào để bắt đầu công việc viết lách?
 author: jane
 categories:
   - Tản mạn
-image: assets/images/home.jpg
+image: assets/images/13.jpg
 tags:
   - tảm mạn
   - truyện ngắn
@@ -16,7 +16,7 @@ tags:
 
 Nhiều người bảo tôi rằng, cái thứ công việc tôi đang làm (đôi khi tôi hơi dung túng ngôn từ với những gì tôi thấy thoải mái), nó chẳng liên quan tẹo nào đến những cái status thỉnh thoảng tôi hay đăng. Thỉnh thoảng tôi hay chia sẻ vài đoạn tôi thấy thú thú trong những mẩu chuyện còn rất khiêm tốn về vốn hiểu biết và ngôn từ của người mới chập chững bước vào nghề cầm bút như tôi. Bạn làm nghề gì cũng vậy thôi, "Vạn sự khởi đầu nan" và nghề nào cũng vậy, nếu muốn thành công, bạn phải dành trọn tâm huyết với nghề ấy. Tôi cũng không biết khái niệm thành công của mỗi người là gì, còn với tôi, được làm những công việc mình yêu thích, sống trọn vẹn với nó, đó là thành công với tôi. Và tất nhiên, nó phải cần thiết, hoặc có ích cho những người cần đọc nó, thích đọc nó và muốn đọc nó... Văn tôi rất dài và tôi không tài nào dừng lại ở những status ngắn cho được, trừ khi, tôi đăng hình ảnh và câm lặng không nói năng gì cả, thỉnh thoảng tôi vẫn thường làm như thế!
 
-
+![Image](/assets/images/13.jpg)
 
 Facebook tôi không có nhiều người bạn và các bạn cứ thử tưởng tượng xem, xã hôi bây giờ hay có thói, người giàu chơi với người giàu, người nghèo chơi với người nghèo, giỏi chơi với giỏi, kém chơi với kém. Người ta hay nói câu đại loại như là đi với ong thì sẽ tìm được hoa đẹp... Tôi chơi vô đối, ai hợp thì chơi và không hợp thì thôi.
 
