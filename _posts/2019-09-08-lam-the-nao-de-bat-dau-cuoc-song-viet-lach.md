@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 title: Làm thế nào để bắt đầu công việc viết lách?
 author: jane
