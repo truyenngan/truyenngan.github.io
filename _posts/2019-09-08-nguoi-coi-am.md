@@ -1,13 +1,17 @@
 ---
 layout: post
-title:  "Người cõi âm"
+title: Người cõi âm
 author: jane
-categories: [Kinh dị]
+categories:
+  - Kinh dị
 image: assets/images/nguoi-coi-am.jpg
-tags: [nguoi coi am , truyen kinh di]
+tags:
+  - nguoi coi am
+  - truyen kinh di
+published: true
 ---
 
-Tôi mệt nhoài, người cố nhổm dậy để kéo tấm chăn đắp lên đôi chân mình mặc cho đốt sống lưng kêu răn rắc. Tôi thích mùa đông mặc dù nó làm tôi đau đớn cả thể xác lẫn tinh thần. Ở Sài Gòn thật khó để có một mùa đông đúng nghĩa.
+*Tôi mệt nhoài, người cố nhổm dậy để kéo tấm chăn đắp lên đôi chân mình mặc cho đốt sống lưng kêu răn rắc. Tôi thích mùa đông mặc dù nó làm tôi đau đớn cả thể xác lẫn tinh thần. Ở Sài Gòn thật khó để có một mùa đông đúng nghĩa.
 
 Cả tuần nay tôi đã ngủ vùi trên giường để mặc cho cả thế giới dưới chân sụp đổ, mặc cho ngoài kia 152 người khách Việt trốn mất tại Đài Loan, cả đoàn khách Việt bị đánh bom ở Ai Cập, áp thấp nhiệt đới đang đổ bộ, tiếng càm ràm của mẹ hay chỉ là tiếng kêu meo meo của con mèo đòi âu yếm.Bạn nhắn tin hỏi tôi nghĩ gì về những sự kiện đấy, tôi chỉ biết xem tin nhắn và tiếp tục hành trình vùi đầu vào giấc ngủ, biết nói gì hơn khi đầu tôi lúc này trống rỗng, trống rỗng thực sự.
 
