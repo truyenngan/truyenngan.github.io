@@ -7,7 +7,7 @@ categories:
   - Tản mạn
 image: assets/images/13.jpg
 tags:
-  - sticky
+  - ghim
   - truyện ngắn
 ---
 Truyện ngắn là một thể loại văn học. Nó thường là các câu chuyện kể bằng văn xuôi và có xu hướng ngắn gọn, súc tích và hàm nghĩa hơn các câu truyện dài như tiểu thuyết. Thông thường truyện ngắn có độ dài chỉ từ vài dòng đến vài chục trang, trong khi đó tiểu thuyết rất khó dừng lại ở con số đó. Vì thế, tình huống truyện luôn là vấn đề quan trọng bậc nhất của nghệ thuật truyện ngắn.
